@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Peakon Manager Search</string>
+    <string name="default_name">John Doe</string>
+    <string name="default_email">john.doe@mail.com</string>
+    <string name="search_title">Type to search</string>
+    <string name="search_name_or_email">Name or Email</string>
+</resources>
