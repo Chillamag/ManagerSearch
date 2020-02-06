@@ -24,7 +24,9 @@ without downloading Android Studio.
 First of all, you should plug in your device to your computer. 
 
 Then you should locate the .apk file. 
-The file is located at `\app\build\outputs\apk\debug`
+The file is located at `\app\build\outputs\apk\debug`.
+
+Then you can transfer the `app-debug` to your phone, locate it and install it. 
 
 
 ## License
