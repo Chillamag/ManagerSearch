@@ -21,12 +21,9 @@ and turn on the USB Debugging to make your phone appear.
 If you only want to run the app on your Android smartphone, you can do that
 without downloading Android Studio. 
 
-First of all, you should plug in your device to your computer. 
+You can download the apk [here](https://www.attosecgames.com/magnus/projects/peakon_manager_search/peakonmanagersearch.apk).
 
-Then you should locate the .apk file. 
-The file is located at `\app\build\outputs\apk\debug`.
-
-Then you can transfer the `app-debug` to your phone, locate it and install it. 
+Then you can transfer the `peakonmanagersearch.apk` to your phone, locate it and install it. 
 
 
 ## License
